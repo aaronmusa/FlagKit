@@ -258,6 +258,3 @@ This set currently includes the 255 flags below:
 | <img src='PNG/ZA@2x.png?raw=true' width='21' height='15'> | ZA | South Africa
 | <img src='PNG/ZM@2x.png?raw=true' width='21' height='15'> | ZM | Zambia
 | <img src='PNG/ZW@2x.png?raw=true' width='21' height='15'> | ZW | Zimbabwe
-| <img src='PNG/AQ.png?raw=true' width='21' height='15'> | ZW | Zimbabwe
-| <img src='PNG/BQ.png?raw=true' width='21' height='15'> | ZW | Zimbabwe
-| <img src='PNG/EH.png?raw=true' width='21' height='15'> | ZW | Zimbabwe
